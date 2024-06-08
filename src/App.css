@@ -1,0 +1,52 @@
+html, body {
+  text-align: center;
+  height: 100%;
+  margin: 0;
+}
+.app {
+  background: #f6f8fa;
+  width: 100vw;
+}
+.app-header {
+  text-align: left;
+  width: 100vw; 
+  height: 30px; 
+  background: #052849;
+  padding: 2px 0px 0px 10px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+.aside-logo {
+  margin: 5px;
+  height: 100px;
+  width: 100px;
+}
+
+.aside-tag {
+  background-color: #fff;
+  border: 1px solid #d9d9d9;
+  margin: 3px 3px;
+}
+
+.aside-subtitle {
+  font-size: 8px;
+  color: #aeb9ce;
+}
+
+.stackline-logo {
+  height: 10px;
+  pointer-events: none;
+}
+
+.container {
+  box-sizing: border-box;
+  height: 100%;
+  box-shadow: #eff2f5 4px 4px 10px;
+  background: #fff;
+  margin: 10px 10px;
+}
+
+.content-table {
+  padding: 20;
+}
